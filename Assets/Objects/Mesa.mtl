@@ -1,0 +1,166 @@
+newmtl album_fotos:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd album_capa.tif
+bump album_capa_normal .jpg -bm 0.003
+Ni 1.00
+newmtl album_fotos:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd album_bloco1.tif
+bump album_bloco1_normal.jpg -bm 0.002
+Ni 1.00
+newmtl album_fotos:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd album_bloco2.tif
+bump album_bloco2_normal.jpg -bm 0.002
+Ni 1.00
+newmtl album_fotos:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd album_pag_ultima_frente.tif
+Ni 1.00
+newmtl album_fotos:lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd album_pags_verso.tif
+Ni 1.00
+newmtl album_fotos:lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd album_pag1virada_frente.tif
+Ni 1.00
+newmtl blinn1SG
+illum 4
+Kd 0.11 0.11 0.11
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.13 0.15 0.29
+newmtl blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd capa_l1.tif
+bump capa_l1_normal.jpg -bm 0.03
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl goldSG
+illum 4
+Kd 0.29 0.29 0.18
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.71 0.67 0.54
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.24 0.24 0.24
+Tf 1.00 1.00 1.00
+map_Kd ampulheta_areia.tif
+Ni 1.00
+newmtl lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paginas_l1.tif
+bump paginas_l1_normal.jpg -bm 0.06
+Ni 1.00
+newmtl lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mesa.tif
+bump mesa_normal.jpg -bm 0.12
+Ni 1.00
+newmtl lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bicoPena_madeira.tif
+Ni 1.00
+newmtl lambert16SG
+illum 4
+Kd 1.00 0.97 0.73
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert17SG
+illum 4
+Kd 0.04 0.02 0.09
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+newmtl lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd foto1.tif
+Ni 1.00
+newmtl lentesSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.07 0.07 0.07
+Ni 1.52
+Ks 1.00 1.00 1.00
+Ns 98.00
+newmtl livro1_capa1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd capa_l2.tif
+bump capa_l2_normal.jpg -bm 0.03
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ampulheta_madeira.tif
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl silverSG
+illum 4
+Kd 0.85 0.85 0.85
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.28 0.28 0.28
+newmtl vidro1:snifterShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.07 0.07 0.07
+Ni 1.52
+Ks 1.00 1.00 1.00
+Ns 98.00
+newmtl vidro_pote_nanquimSG
+illum 4
+Kd 0.85 0.85 0.85
+Ka 0.18 0.18 0.18
+Tf 0.14 0.14 0.14
+Ni 1.15
+Ks 1.00 1.00 1.00
+Ns 98.00
