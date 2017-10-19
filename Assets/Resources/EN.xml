@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<Root strings>-->
+<strings lang="en">
+	<!--<Avenidas>-->	
+	<string id="0"><![CDATA[João Pinheiro*Avenue]]></string>
+	<string id="1"><![CDATA[Brasil*Avenue]]></string>
+	<!--<Botões>-->
+	<string id="jogar"><![CDATA[Play]]></string>
+	<string id="voltar"><![CDATA[Back]]></string>
+</strings>

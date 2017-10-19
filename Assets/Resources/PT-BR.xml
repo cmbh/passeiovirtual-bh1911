@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<Textos em português>-->
+<strings lang="pt-br">
+	<!--<Avenidas>-->	
+	<string id="0"><![CDATA[AV. João Pinheiro*Av. da Liberdade]]></string>
+	<string id="1"><![CDATA[Av. Brasil*Av. do Brasil]]></string>
+	<string id="2"><![CDATA[Av. Cristovão Colombo]]></string>
+	<string id="3"><![CDATA[Rua Cláudio Manuel]]></string>
+	<string id="4"><![CDATA[Av. João Pinheiro]]></string>
+	<string id="5"><![CDATA[Rua Gonçalves Dias]]></string>
+	<string id="6"><![CDATA[Av. Bias Fortes*Av. Cristovão Colombo]]></string>
+	<string id="7"><![CDATA[Av. Brasil*Av. do Brasil]]></string>
+	<string id="8"><![CDATA[Av. João Pinheiro]]></string>
+	<string id="9"><![CDATA[Av. Augusto de lima*Av. do Paraopeba]]></string>
+	<string id="10"><![CDATA[Av. Álvares Cabral]]></string>
+	<string id="11"><![CDATA[Rua da Bahia]]></string>
+	<string id="12"><![CDATA[Rua Goiás]]></string>
+	<string id="13"><![CDATA[Rua Guajajaras]]></string>
+	<!--<Botões>-->
+	<string id="jogar"><![CDATA[Jogar]]></string>
+	<string id="voltar"><![CDATA[Voltar]]></string>
+</strings>
