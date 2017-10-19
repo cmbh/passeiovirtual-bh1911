@@ -6,8 +6,11 @@ Criado no contexto do programa Pró-Memória da Câmara Municipal de Belo Horizo
 Foram modeladas três grandes áreas.  O resultado estético foi baseado em pesquisas de documentos e imagens do acervo do Arquivo Público de BH, Arquivo Público Mineiro e Museu Histórico Abílio Barreto.
 
 As áreas são:
+
 *Praça da Estação - Compõe trecho da rua da Bahia.
+
 *Praça da república - Atual praça Afonso Arinos - Abrange parte da Av. João Pinheiro (Liberdade), Av. Augusto de Lima (Paraopeba), rua da Bahia, rua Goiás e Av. Afonso Pena.
+
 *Praça da Liberdade.
 
 Além das edificações foram adicionados personagens históricos, cidadãos com figurino da época, veículos (Trem, bondes e charretes) e animais domésticos.
