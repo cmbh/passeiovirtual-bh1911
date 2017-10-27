@@ -18,3 +18,5 @@ O projeto buscou precisão histórica para modelar as fachadas e a escala dos pr
 A topografia utilizada foi baseada em arquivo fornecido pela Prefeitura Municipal de Belo Horizonte e ajustada para correponder aos registros de imagem da época.
 
 Câmara Municipal de Belo Horizonte
+
+![Passeio Virtual BH 1911](https://github.com/cmbh/passeiovirtual-bh1911/images/capa_project_16-09.jpg)
