@@ -18,3 +18,10 @@ O projeto buscou precisão histórica para modelar as fachadas e a escala dos pr
 A topografia utilizada foi baseada em arquivo fornecido pela Prefeitura Municipal de Belo Horizonte e ajustada para correponder aos registros de imagem da época.
 
 Câmara Municipal de Belo Horizonte
+
+![capa_projet_16-9](https://user-images.githubusercontent.com/32522822/32104199-32130fc8-bb02-11e7-8248-1dc17849202c.jpg)
+    Tela de abertura do aplicativo.
+
+![29](https://user-images.githubusercontent.com/32522822/32104375-ebd5b780-bb02-11e7-8009-b72e4bf63968.jpg)
+    Tela do aplicativo.
+
