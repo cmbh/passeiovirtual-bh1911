@@ -2,7 +2,7 @@
 
 A Mesa da Câmara Municipal de Belo Horizonte, no uso de suas atribuições legais, resolve:
 
-Art. 1º - Ficam liberados para uso livre e público, nos termos CC-BY 3.0 descritos na licença “Creative Commons 3.0”, todos os arquivos gerados para criação do aplicativo Passeio Virtual Belo Horizonte 1911.
+<strong>Art. 1º</strong> - Ficam liberados para uso livre e público, nos termos CC-BY 3.0 descritos na licença “Creative Commons 3.0”, todos os arquivos gerados para criação do aplicativo Passeio Virtual Belo Horizonte 1911.
 
    § 1º - A área técnica responsável publicará os arquivos em repositório público e gratuito, na rede mundial de computadores, de forma a dar acesso fácil e gratuito a todos os usuários interessados.
 
@@ -10,4 +10,4 @@ Art. 1º - Ficam liberados para uso livre e público, nos termos CC-BY 3.0 descr
 
    § 3º - A área técnica responsável ficará encarregada de preservar nos servidores da Câmara cópia original e inalterada dos arquivos e código fontes do aplicativo.
 
-Art. 2º - Esta Deliberação entra em vigor na data de sua publicação
+<strong>Art. 2º</strong> - Esta Deliberação entra em vigor na data de sua publicação
