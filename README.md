@@ -19,4 +19,4 @@ A topografia utilizada foi baseada em arquivo fornecido pela Prefeitura Municipa
 
 Câmara Municipal de Belo Horizonte
 
-![Passeio Virtual BH 1911](https://github.com/cmbh/passeiovirtual-bh1911/images/capa_project_16-09.jpg)
+![capa_projet_16-9](https://user-images.githubusercontent.com/32522822/32104199-32130fc8-bb02-11e7-8248-1dc17849202c.jpg)
