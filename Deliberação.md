@@ -1,3 +1,6 @@
+# DELIBERAÇÃO Nº 4/2017
+Publicada em 28/10/2017 DOM
+   
    **Autoriza a publicação na internet do código fonte e demais arquivos do aplicativo Passeio Virtual BH 1911**
 
 A Mesa da Câmara Municipal de Belo Horizonte, no uso de suas atribuições legais, resolve:
@@ -11,3 +14,19 @@ A Mesa da Câmara Municipal de Belo Horizonte, no uso de suas atribuições lega
    > § 3º - A área técnica responsável ficará encarregada de preservar nos servidores da Câmara cópia original e inalterada dos arquivos e código fontes do aplicativo.
 
 **Art. 2º** - Esta Deliberação entra em vigor na data de sua publicação
+
+Belo Horizonte, 25 de outubro de 2017
+
+**Henrique Braga**
+<br>Presidente<br><br>
+
+**Orlei Pereira**
+<br>1º Vice-Presidente<br>
+**Léo Burguês de Castro**
+<br>2º Vice-Presidente<br>
+**Nely do Valdivino**
+<br>Secretário-Geral<br>
+**Juliano Lopes**
+<br>1º Secretário<br>
+**Catatau da Itatiaia**
+<br>2º Secretário
